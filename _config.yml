@@ -43,7 +43,7 @@ navigation:
     url: /tags
 
 # 每页的文章数
-paginate: 8
+paginate: 10
 
 # 文章简介的区分标记
 excerpt_separator: <!-- more -->
@@ -74,7 +74,7 @@ footer-text: A_guest_who_came_from_afar ©2023
 #
 
 # 输入Disqus shortname，即可添加评论区，请查阅文档，设置自己的disqus站点，不要继续使用我的站点loffer
-disqus: loffer #shortname
+disqus:  #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
