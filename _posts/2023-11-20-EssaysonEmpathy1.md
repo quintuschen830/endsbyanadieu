@@ -20,7 +20,7 @@ comments: true
 
 最近生活里比较好的部分是是买了essays on empathy，每天睡前或者醒来玩一个小游戏——这个系列由开发了红弦俱乐部的独立游戏团队Deconstructeam制作，包含十个game jam体量的短流程实验性游戏，附赠后日谈和设定集。
 
-Deconstructeam很注重游戏中的反身性，他们不仅提供叙事体验，也提强调与现实的链接，让玩家思考游戏之外的生活；而比起作品展示，essays on empathy本身更像是开发日志或者思考随笔，这是我玩得特别开心的原因：让我来看看对于做游戏的人来说，游戏之外有什么.jpg
+Deconstructeam很注重游戏中的反身性，他们不仅提供叙事体验，也提强调与现实的链接，让玩家思考游戏之外的生活；而比起作品展示，essays on empathy本身更像是开发日志或者思考随笔，这是我玩得特别开心的原因：让我来看看！对于做游戏的人来说，游戏之外有什么.jpg
 
 <br><br><br>
 
@@ -28,7 +28,7 @@ Deconstructeam很注重游戏中的反身性，他们不仅提供叙事体验，
 
 ### Eternal Home Floristry
 
-The first thing i'd like to mention is这个东西是72h jam做出来的……！人家一个周末做了什么而我又做了什么？
+The first thing I'd like to mention is这个东西是72h jam做出来的……！人家一个周末做了什么而我又做了什么？
 
 确实是红弦俱乐部的一个切片，剧本又好又标准：一位受伤的杀手被花店老板收留，帮助他制作花束，在这个过程中反思自己的生活并且爱上老板（老板叫Sebastian，我狂代一口）。
 
@@ -40,7 +40,7 @@ The first thing i'd like to mention is这个东西是72h jam做出来的……�
 
 此外比较让我感动的地方是聊到非母语写作的问题，“我们母语是西班牙语但不得不用英语写因为我们有恰饭的压力，这个世界上大多数人说英语，我们受到了语言的限制”……我懂我特别懂，不过你们开始本地化之后立刻就做了日语是吧，二次元？这么爱？
 
-还有就是感同身受地工作令人想死，“crying in the sofa is an important part of the process cuz we cry a lot when making games...... i mean we just stay here, stay for suffer."
+还有就是感同身受地工作令人想死，“crying in the sofa is an important part of the process cuz we cry a lot when making games...... I mean we just stay here, stay for suffer."
 
 
 
