@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Essays on Empathy 1：游戏之外有什么
-date: 2022-10-31
+date: 2023-11-20
 Author: 橘
 categories: 
 tags: [走来走去]
