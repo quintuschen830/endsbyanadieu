@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 广州，以及广州的吃的
+title: Essays on Empathy 1：游戏之外有什么
 date: 2022-10-31
 Author: 橘
 categories: 
@@ -33,6 +33,7 @@ The first thing i'd like to mention is这个东西是72h jam做出来的……�
 确实是红弦俱乐部的一个切片，剧本又好又标准：一位受伤的杀手被花店老板收留，帮助他制作花束，在这个过程中反思自己的生活并且爱上老板（老板叫Sebastian，我狂代一口）。
 
 不得不插播一句非常俗套但非常贴切的聂鲁达：*In my barren land you are the final rose.*
+
 剧情制作思路一以贯之，是轻量版的红弦，一条剧情线+假选项，强调self-expression而非problem-solving。因为选择不会带来大段剧情分差，所以完全由玩家自己（而不是代入角色）来决定；最后一切戛然而止，也很红弦。还有一个我觉得更红弦的地方是故事背景设计里概念的显化，比如红弦是看起来是一个cyberpunk，但它重心并不在科技与人的关系，AI和人的争论只是自由意志的显化；floristry讲这片土壤里剩下的是最后的花朵，其实也只是在讲情感，概念的援引只是为了调整叙事距离。
 
 关于插花玩法，特别高兴在video里看到staff提到了：Why gameplays must be challenges,  we can just express ourselves and get creative with it! 所以有了插花，有了调酒，有了塔罗制作。也提到主创对于documentaries有特别的兴趣，做插花游戏之前真的会去观察花，做调酒游戏的时候真的会去酒吧狂喝，就很萌呀！真正的apply realism to games！
