@@ -22,34 +22,36 @@ comments: true
 
 #### 是的，我们有一个游戏！
 
-Name: The Unfinished
-
-Gameplay: interactive visual novel
-
-Mechanisms: book choosing+dialogue choosing
-
-World design: cyberpunk
-
-Plot: The game puts the player in the role of a bookshop staff, Yang. Yang loses his job, becomes homeless, and is saved by a bookstore owner, Horace. Through conversation with costumers, Yang needs to sell books according to their demand.
-
-- Daily life in a new and refreshing world
-- Political, philosophical and cultural reflections
-- Unique experience based on choosing
-- Atmosphere: tired, cosy, soft
-- Main gameplay :
-  1.  The player needs to listen to the customer's needs and choose the right book;
-  2.  The player needs to communicate with the owner/customers. During this process, the player's personality traits will be recorded. At the end of the game, the player will get a personality record interpretation.
-
-- About the immersive narrative in visual novel: 
-
-  1. Encouraging self-projection in the game;
-  2. Going through the barrier between the game and the real world.
-
-<br/>
+> Name: The Unfinished
+>
+> Gameplay: interactive visual novel
+>
+> Mechanisms: book choosing+dialogue choosing
+>
+> World design: cyberpunk
+>
+> Plot: The game puts the player in the role of a bookshop staff, Yang. Yang loses his job, becomes homeless, and is saved by a bookstore owner, Horace. Through conversation with costumers, Yang needs to sell books according to their demand.
+>
+> - Daily life in a new and refreshing world
+> - Political, philosophical and cultural reflections
+> - Unique experience based on choosing
+> - Atmosphere: tired, cosy, soft
+> - Main gameplay :
+>   1.  The player needs to listen to the customer's needs and choose the right book;
+>   2.  The player needs to communicate with the owner/customers. During this process, the player's personality traits will be recorded. At the end of the game, the player will get a personality record interpretation.
+>
+> - About the immersive narrative in visual novel: 
+>
+>   1. Encouraging self-projection in the game;
+>   2. Going through the barrier between the game and the real world.
 
 <br/>
 
 <br/>
+
+<br/>
+
+#### 
 
 #### 关于系统
 
